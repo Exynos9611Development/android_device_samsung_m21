@@ -85,6 +85,6 @@ vendor/lib64/libsecnativefeature.so
 vendor/lib64/libSEF.quram.so
 vendor/lib64/libsensorlistener.so
 vendor/lib64/libremosaic_daemon.so
-vendor/lib64/libremosaiclib_s5kgm2.so
+vendor/lib64/libremosaiclib_s5kgm2.so;FIX_SONAME
 vendor/lib64/libuniapi.so
 vendor/lib64/libuniplugin.so
