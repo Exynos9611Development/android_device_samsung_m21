@@ -1479,7 +1479,7 @@
 
 	<path name="media-mic">
 		<path name="route-ap-record" />
-		<path name="dev-dual-mic" />
+		<path name="dev-main-mic" />
 	</path>
 
 	<path name="media-2nd-mic">
@@ -3415,10 +3415,8 @@
 	<!-- Input stage volume -->
 	<!-- media input volume -->
 	<path name="gain-media-mic">
-		<ctl name="IN1L Volume" value="37" />
-		<ctl name="IN1R Volume" value="37" />
-		<ctl name="IN1L Digital Volume" value="134" />
-		<ctl name="IN1R Digital Volume" value="134" />
+		<ctl name="IN1L Volume" value="16" />
+		<ctl name="IN1L Digital Volume" value="118" />
 	</path>
 
 	<path name="gain-media-2nd-mic">
