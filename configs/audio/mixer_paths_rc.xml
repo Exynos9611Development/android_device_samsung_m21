@@ -3572,11 +3572,13 @@
 
 	<!-- recognition input volume -->
 	<path name="gain-recognition-mic">
-		<path name="gain-media-mic" />
+		<ctl name="IN1L Volume" value="28" />
+		<ctl name="IN1L Digital Volume" value="128" />
 	</path>
 
 	<path name="gain-recognition-2nd-mic">
-		<path name="gain-media-2nd-mic" />
+		<ctl name="IN1R Volume" value="19" />
+		<ctl name="IN1R Digital Volume" value="128" />
 	</path>
 
 	<path name="gain-recognition-headset-mic">
