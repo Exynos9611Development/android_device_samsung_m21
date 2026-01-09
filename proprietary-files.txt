@@ -67,3 +67,8 @@ vendor/lib64/libremosaic_daemon.so
 vendor/lib64/libremosaiclib_s5kgm2.so;FIX_SONAME
 vendor/lib64/libuniapi.so
 vendor/lib64/libuniplugin.so
+
+## NFC
+vendor/firmware/nfc/sec_s3nrn82_firmware.bin
+vendor/etc/init/init.nfc.samsung.rc
+vendor/etc/nfc/sec_s3nrn82_rfreg.bin
